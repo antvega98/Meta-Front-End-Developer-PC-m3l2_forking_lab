@@ -1,3 +1,13 @@
-`Name:` Collins <br>
-`Location:` Ghana <br>
-`Certification:` Version Control Certification
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
